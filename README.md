@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinathpuligari&label=Profile%20views&color=0e75b6&style=flat" alt="srinathpuligari" /> </p>
 
-- 👨💻 All of my projects are available at [https://srinathpuligaridev.tech/](https://srinathpuligari.tech/)
+- 👨💻 All of my projects are available at [https://srinathpuligari.tech/](https://srinathpuligari.tech/)
 
 - 📫 How to reach me **srinathpuligari@gmail.com**
 
